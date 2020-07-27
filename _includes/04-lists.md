@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+* ASIYAH
+  * MALKUTH
+  * YESOD
+  * NETZACH
+  * HOD
+* BIRAH
+  * TIPHERETH
+  * CHESED
+  * GEBURAH
+* ATZILUTH
+  * BINAH
+  * HOKMA
+  * KETHER
