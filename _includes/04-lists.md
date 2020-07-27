@@ -1,0 +1,13 @@
+* ASIYAH
+  * MALKUTH
+  * YESOD
+  * NETZACH
+  * HOD
+* BIRAH
+  * TIPHERETH
+  * CHESED
+  * GEBURAH
+* ATZILUTH
+  * BINAH
+  * HOKMA
+  * KETHER
